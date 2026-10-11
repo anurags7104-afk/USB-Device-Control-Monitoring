@@ -1,0 +1,15 @@
+{
+  "mode": "ALLOWLIST_ONLY",
+  "allowed_devices": [
+    {
+      "vendor_id": "0781",
+      "product_id": "5567",
+      "serial_number": "4C530001",
+      "description": "Sample Approved Flash Drive"
+    }
+  ],
+  "blocked_devices": [],
+  "auto_block_unauthorized": false,
+  "audit_file_extensions": ["*"],
+  "log_directory": "logs"
+}
